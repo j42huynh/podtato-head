@@ -26,7 +26,7 @@ leftLeg:
   servicePort: 9002
 leftArm:
   repositoryBasename: podtato-left-arm
-  tag: "v3-latest-dev"
+  tag: "v1-latest-dev"
   serviceType: ClusterIP
   servicePort: 9003
 rightLeg:
